@@ -1,2 +1,3 @@
 # hello-world
-Learning to make repository
+Learning to make repository and branches.
+
